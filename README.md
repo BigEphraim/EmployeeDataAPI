@@ -41,11 +41,11 @@ This RESTful microservice, built entirely with Java Spring Boot, manages employe
 ### Testing Endpoints with Postman
 You can test the API endpoints using Postman. Here are some sample requests:
 
-- GET (https://springboot-backend-render.onrender.com/employees): Sends a GET request to retrieve all employees.
-- GET (https://springboot-backend-render.onrender.com/employees/3): Sends a GET request with a specific ID parameter (in this case, the ID parameter is 3) to retrieve a particular employee's details (the employee with ID = 3).
-- POST (https://springboot-backend-render.onrender.com/employees): Sends a POST request with JSON data to create a new employee record.
-- PUT (https://springboot-backend-render.onrender.com/employees/3): Sends a PUT request with JSON data to update an existing employee's record by ID (in this case, the employee with ID = 3 will be updated in the database).
-- DELETE (https://springboot-backend-render.onrender.com/employees/3): Sends a DELETE request with a specific ID parameter to delete an employee record (in this case, the employee with ID = 3 will be updated in the database).
+- GET (https://springboot-backend-render.onrender.com/api/employees): Sends a GET request to retrieve all employees.
+- GET (https://springboot-backend-render.onrender.com/api/employees/3): Sends a GET request with a specific ID parameter (in this case, the ID parameter is 3) to retrieve a particular employee's details (the employee with ID = 3).
+- POST (https://springboot-backend-render.onrender.com/api/employees): Sends a POST request with JSON data to create a new employee record.
+- PUT (https://springboot-backend-render.onrender.com/api/employees/3): Sends a PUT request with JSON data to update an existing employee's record by ID (in this case, the employee with ID = 3 will be updated in the database).
+- DELETE (https://springboot-backend-render.onrender.com/api/employees/3): Sends a DELETE request with a specific ID parameter to delete an employee record (in this case, the employee with ID = 3 will be updated in the database).
 
 ## Acknowledgement
 
