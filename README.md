@@ -1,7 +1,7 @@
 # Employee Data API
 
-![Java](https://img.shields.io/badge/Java-21-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.4-brightgreen)
+![Java](https://img.shields.io/badge/Java-blue)
+![Spring Boot](https://img.shields.io/badge/-brightgreen)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-lightgrey)
 
 Welcome to the Employee Data API repository! This project is a demonstration of my skills in Java, Spring Boot, and API development.
